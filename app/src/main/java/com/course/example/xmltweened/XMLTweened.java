@@ -30,7 +30,7 @@ public class XMLTweened extends Activity {
 		
 		// Load the appropriate animation
         Animation an =  AnimationUtils.loadAnimation(this, R.anim.shakeitup);
-        // Register a listener, so we can disable and re-enable buttons
+        // Register a listener
         an.setAnimationListener(new MyAnimationListener());	
         // Start the animation
         layout.startAnimation(an);	
@@ -38,7 +38,7 @@ public class XMLTweened extends Activity {
         
     }
     
-    class MyAnimationListener implements Animation.AnimationListener {
+    public class MyAnimationListener implements Animation.AnimationListener {
 
 		public void onAnimationEnd(Animation animation) {
 			// what to do when animation ends
