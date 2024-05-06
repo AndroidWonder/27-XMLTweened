@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/27-XMLTweened.iml" filepath="$PROJECT_DIR$/27-XMLTweened.iml" group="27-XMLTweened" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="27-XMLTweened/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/27-XMLTweened.iml" filepath="$PROJECT_DIR$/.idea/modules/27-XMLTweened.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/27-XMLTweened.app.unitTest.iml" />
     </modules>
   </component>
 </project>
